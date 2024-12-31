@@ -421,3 +421,97 @@
 
 // console.log(`Age group: ${ageGroup}`);
 
+//---------------------------------------------------------------------------------------
+
+// 1.array yoki yoqligini aniqlash
+
+// let arrayOrNot = function (something) {
+//     if (toString.call (something) === "[object Array]") {
+//         return true;
+//     }
+//         return false;
+// };
+// console.log(arrayOrNot("something"))
+// console.log(arrayOrNot([2,5,6]));
+
+// 2.maping orqali har bir songa nechadr raqam qoshish
+
+// let numbers = [1, 2, 3, 4, 5];
+// let data = numbers.map(num => num + 6);
+// console.log(data);
+
+// 3.map orqali sozlarni uppercase ga ozgartirish
+
+// let words = ["hello","world"]
+// let uppercasewords = words.map(word => word.toUpperCase())
+
+// console.log(uppercasewords)
+
+// 4.filter orqali sozlarni lengthga qarab tanlab olish
+
+// let animals = ['cat','lion','dog','zebra']
+// let shortwords = animals.filter((short) => short.length < 4)
+
+// console.log(shortwords)
+
+// 5.filter orqali 18 yoshdan kattan foydalanuvchilarni tanlash
+
+// let users = [
+//     { name: "Alice", age: 17 },
+//     { name: "Bob", age: 20 },
+//     { name: "Charlie", age: 25 },
+//     { name: "David", age: 15 }
+//   ];
+//   let adults = users.filter(user=>user.age >= 18)
+//   console.log(adults)
+
+// 6.foreach orqali numberlarni kopaytirish
+
+// let numbers= [1,2,3,4,5,6]
+// let doubledNums = []
+
+// numbers.forEach((num) => doubledNums.push(num*3))
+
+// console.log(doubledNums)
+
+// 7.find orqali arraylar ichidan kerakli malumotni topish
+
+// let users = [
+//     { username: "alice", age: 25 },
+//     { username: "bob", age: 30 },
+//     { username: "charlie", age: 35 }
+//   ];
+  
+//   let user = users.find((user) => user.username === "bob");
+  
+//   console.log(user); 
+
+// 8. find orqali 0 dan kichik bolgan raqamni topish
+
+
+// let numbers = [3,-9, 8, -4];
+
+// let firstMinus = numbers.find((num) => num < 0);
+
+// console.log(firstMinus); 
+
+  
+// 9.reduce orqali sonlarni kopaytmasini topish
+
+// let numbers = [1, 2, 3,];
+
+// let data = numbers.reduce((num1, num2) => num1 * num2, +1 ) ; 
+
+// console.log(data);
+
+// 10.findIndex orqali userni indexni topish topish
+
+// 11.
+
+    let arr1 = [1,2,3]
+    let arr2 = [4,5,6]
+    let result = arr1.concat(arr2)
+
+concatArrays(result)
+
+  
