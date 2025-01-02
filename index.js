@@ -504,14 +504,19 @@
 
 // console.log(data);
 
-// 10.findIndex orqali userni indexni topish topish
+// 10.
 
-// 11.
+//     let arr1 = [1,2,3]
+//     let arr2 = [4,5,6]
+//     let result = arr1.concat(arr2)
 
-    let arr1 = [1,2,3]
-    let arr2 = [4,5,6]
-    let result = arr1.concat(arr2)
+// concatArrays(result)
 
-concatArrays(result)
+// 11 push orqali yangi elementlar qoshish
+
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.push("Kiwi", "Lemon");
+
+console.log(fruits)
 
   
