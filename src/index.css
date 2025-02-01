@@ -40,6 +40,11 @@
   gap: 4px;
   cursor: pointer;
 }
+.top-right a{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .nav-style{
   display: flex;
   align-items: center;
@@ -67,6 +72,12 @@
   border-radius: 25px;
   cursor: pointer;
 
+}
+.active-link p {
+  background-color: #DBDFD0; 
+}
+.button-link {
+  background-color: #DBDFD0; 
 }
 .menu-style :hover{
   background-color: #DBDFD0;
@@ -444,6 +455,14 @@
 .blog-left{
   display: flex;
   flex-direction: column;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  cursor: pointer;
+}
+.blog-left:hover {
+  transition: box-shadow 0.3s ease, border-radius 0.3s ease;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  border-radius: 12px;
 }
 .burger-img{
   background-image: url(assets/burger.png);
@@ -452,6 +471,7 @@
   width: 520px;
   height: 420px;
   border-radius: 12px 12px 0px 0px;
+  margin-left: 3px;
 }
 .blog-wrap{
   display: flex;
@@ -498,6 +518,16 @@
   align-items: center;
   justify-content: center;
   gap: 40px;
+}
+.blog-right-div{
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  border-radius: 12px;
+}
+.blog-right-div:hover{
+  transition: box-shadow 0.3s ease, border-radius 0.3s ease;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  border-radius: 12px;
 }
 .fries-img{
   background-image: url(assets/fries.png);

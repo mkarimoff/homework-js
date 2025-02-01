@@ -266,7 +266,7 @@ const HomeComponent = () => {
               </div>
             </div>
             <div className='blog-right'>
-              <div>
+              <div className='blog-right-div'>
                 <div className='fries-img'></div>
                 <div className='fries-info'>
                 <p>January 3, 2023</p>
@@ -277,7 +277,7 @@ const HomeComponent = () => {
                 </b>
               </div>
               </div>
-              <div>
+              <div className='blog-right-div'> 
                 <div className='chicken-img'></div>
                 <div className='chicken-info'>
                 <p>January 3, 2023</p>
@@ -287,7 +287,7 @@ const HomeComponent = () => {
                 </b>
               </div>
               </div>
-              <div>
+              <div className='blog-right-div'>
                 <div className='cheesecake-img'></div>
                 <div className='fries-info'>
                 <p>January 3, 2023</p>
@@ -297,7 +297,7 @@ const HomeComponent = () => {
                 </b>
               </div>
               </div>
-              <div>
+              <div className='blog-right-div'>
                 <div className='pizza-img'></div>
                 <div className='fries-info'>
                 <p>January 3, 2023</p>

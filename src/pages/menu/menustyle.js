@@ -28,31 +28,38 @@ p{
     margin-top: 10px;
 }
 `
-export const MenuBtn = styled.button `
-    width: 150px;
-    height: 48px;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    border-radius: 50px;
-    border: 1px solid var(--Neutral-03, #DBDFD0);
-    background-color: white;
-    color: var(--Neutral-07, #2C2F24);
-    text-align: center;
-    font-family: "DM Sans";
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 600;
-     cursor: pointer;
-  &:hover{
+
+export const MenuBtn = styled.button`
+  width: 150px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 50px;
+  border: 1px solid var(--Neutral-03, #DBDFD0);
+  background-color: ${({ active }) => (active ? '#AD343E' : 'white')}; 
+  color: ${({ active }) => (active ? 'white' : 'var(--Neutral-07, #2C2F24)')};
+  text-align: center;
+  font-family: "DM Sans";
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+
+  /* Hover effect */
+  &:hover {
     background-color: #AD343E;
     color: white;
   }
-  &:focus {
-    background-color: #AD343E; 
-    color: white;
-  }
-`
+`;
+
+// Default prop to prevent undefined active state
+MenuBtn.defaultProps = {
+  active: false,  // Set default `active` to false if not provided
+};
+
+
 // export const MenuWrapper= styled.div `
 //     display: flex;
 //     flex-wrap: wrap;

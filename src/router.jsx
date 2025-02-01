@@ -11,6 +11,8 @@ import DetailPage from './detail/menudetail'
 import PageDetail from './detail/pagedetail'
 import MenuDetail from './detail/menudetail'
 import ScrollToTop from './pages/scrolltop'
+import BookTable from './pages/bookTable'
+import EroorComponents from './component/404/error'
 
 const RouterComponent = () => {
   return (
@@ -26,6 +28,8 @@ const RouterComponent = () => {
         <Route path= '/detail' element= {<DetailPage/>}/>
         <Route path= '/PageDetail/:id' element= {<PageDetail/>}/>
         <Route path= '/MenuDetail/:id' element= {<MenuDetail/>}/>
+        <Route path= '/BookTable' element= {<BookTable/>}/>
+        <Route path= '*' element= {<EroorComponents/>}/>
     </Routes>
     <Footer/>
     </>

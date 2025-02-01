@@ -20,7 +20,7 @@ export const PagesList = [
   },
     {
       id: 2,
-      photo: "https://images.unsplash.com/photo-1513104890138-7c749659a591?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHx8MHx8fDA%3Dhttps://cdn.pixabay.com/photo/2024/04/18/10/41/ai-generated-8704060_640.jpg",
+      photo: "https://www.allrecipes.com/thmb/CBOcP0zp71lR2bn-KUMkgCB92RA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24228-Sushi-roll-ddmfs-4x3-2914-1839f746d9334814a7a5d93ed45ba082.jpg",
       secondaryPhoto: "https://images.unsplash.com/photo-1513104890138-7c749659a591?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGl6emF8ZW58MHx8MHx8fDA%3Dhttps://cdn.pixabay.com/photo/2024/04/18/10/41/ai-generated-8704060_640.jpg",
       thirdPhoto:"https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
       data: "2023-01-04",
@@ -77,8 +77,8 @@ export const PagesList = [
     },
     {
       id: 5,
-      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORZW6n6jZdIRPO5_NYFqqOKqG0XNVkre14A&s",
-      secondaryPhoto: "https://media.istockphoto.com/id/632439546/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D0%B0%D1%81%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9.jpg?s=612x612&w=0&k=20&c=YWQYx-ycYQAdaPZWjR_AorY6kqsj5yj1z5SsblPJLFE=",
+      photo: "https://joyfoodsunshine.com/wp-content/uploads/2023/02/how-to-make-pizza-dough-13.jpg",
+      secondaryPhoto: "https://joyfoodsunshine.com/wp-content/uploads/2023/02/how-to-make-pizza-dough-13.jpg",
       thirdPhoto:"https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
       data: "2023-01-07",
       description: "How to make a pizza crust",
@@ -96,7 +96,7 @@ export const PagesList = [
     },
     {
       id: 6,
-      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORZW6n6jZdIRPO5_NYFqqOKqG0XNVkre14A&s",
+      photo: "https://files.idyllic.app/files/static/64737",
       secondaryPhoto: "https://media.istockphoto.com/id/632439546/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D0%B0%D1%81%D1%82%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9.jpg?s=612x612&w=0&k=20&c=YWQYx-ycYQAdaPZWjR_AorY6kqsj5yj1z5SsblPJLFE=",
       thirdPhoto:"https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
       data: "2023-01-08",
@@ -115,7 +115,7 @@ export const PagesList = [
     },
     {
       id: 7,
-      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORZW6n6jZdIRPO5_NYFqqOKqG0XNVkre14A&s",
+      photo: "https://www.realsimple.com/thmb/9mjAhtVjmyUMm8cnZ6gHjdN-PQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/real-simple-make-you-rown-pizza-RS1222-d5c99b1bfef245938f9241569c2cecbb.jpg",
       secondaryPhoto: "https://media.istockphoto.com/id/632439546/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D0%B0%D1%81%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D0%B8%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%BC.jpg?s=612x612&w=0&k=20&c=YWQYx-ycYQAdaPZWjR_AorY6kqsj5yj1z5SsblPJLFE=",
       thirdPhoto:"https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
       data: "2023-01-09",
@@ -134,7 +134,7 @@ export const PagesList = [
     },
     {
       id: 8,
-      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORZW6n6jZdIRPO5_NYFqqOKqG0XNVkre14A&s",
+      photo: "https://jackienewgent.com/wp-content/uploads/2014/12/Fitter-French-Fries_image1-1024x768.jpg",
       secondaryPhoto: "https://media.istockphoto.com/id/632439546/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D0%B0%D1%81%D1%82%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9.jpg?s=612x612&w=0&k=20&c=YWQYx-ycYQAdaPZWjR_AorY6kqsj5yj1z5SsblPJLFE=",
       thirdPhoto: "https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
       data: "2023-01-10",
@@ -153,7 +153,7 @@ export const PagesList = [
   },
   {
       id: 9,
-      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORZW6n6jZdIRPO5_NYFqqOKqG0XNVkre14A&s",
+      photo: "https://www.simplyrecipes.com/thmb/9tcqj3GSN8v81S5dqFav9To4M1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2018__10__Air-Fryer-French-Fries-LEAD-HORIZONTAL-7329573ab50e4df1993fe5b25f024f9d.jpg",
       secondaryPhoto: "https://media.istockphoto.com/id/632439546/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D0%B0%D1%81%D1%82%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9.jpg?s=612x612&w=0&k=20&c=YWQYx-ycYQAdaPZWjR_AorY6kqsj5yj1z5SsblPJLFE=",
       thirdPhoto: "https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
       data: "2023-01-11",
@@ -172,7 +172,7 @@ export const PagesList = [
   },
   {
       id: 10,
-      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORZW6n6jZdIRPO5_NYFqqOKqG0XNVkre14A&s",
+      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHv-NPT-xpSmWpYKM0NvH37AN2Nu8O4c-MXw&s",
       secondaryPhoto: "https://media.istockphoto.com/id/632439546/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D0%B0%D1%81%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9.jpg?s=612x612&w=0&k=20&c=YWQYx-ycYQAdaPZWjR_AorY6kqsj5yj1z5SsblPJLFE=",
       thirdPhoto: "https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
       data: "2023-01-12",
@@ -191,7 +191,7 @@ export const PagesList = [
   },
   {
       id: 11,
-      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORZW6n6jZdIRPO5_NYFqqOKqG0XNVkre14A&s",
+      photo: "https://www.yourhomebasedmom.com/wp-content/uploads/2021/06/hamburger-sauce-5-of-12.jpg",
       secondaryPhoto: "https://media.istockphoto.com/id/632439546/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D0%B0%D1%81%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9.jpg?s=612x612&w=0&k=20&c=YWQYx-ycYQAdaPZWjR_AorY6kqsj5yj1z5SsblPJLFE=",
       thirdPhoto: "https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
       data: "2023-01-13",
@@ -210,7 +210,7 @@ export const PagesList = [
   },
   {
       id: 12,
-      photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORZW6n6jZdIRPO5_NYFqqOKqG0XNVkre14A&s",
+      photo: "https://www.seriouseats.com/thmb/TAmlHDAkMwaIdgkkjNr8wwyik70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20101029-pizza-lab-primary-44ffa36fd2414f06abf5f16c11f14f1c.jpg",
       secondaryPhoto: "https://media.istockphoto.com/id/632439546/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BF%D0%B0%D1%81%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D0%B1%D0%B5%D0%B9-%D0%BA%D0%BE%D1%87%D0%B8-%D0%BA%D0%B0%D0%BC%D0%BB%D0%B5%D1%82%D0%B5.jpg",
       thirdPhoto: "https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg",
       data: "2023-01-14",
